@@ -1,7 +1,21 @@
-{
+[
+  {
   "name": "Naichanok Iamthong",
   "title": "Internet Programming Lecturer",
   "phone": "+66 6584806969",
   "email": "naichanok.i@ku.th"
-}
+},
+  {
+  "name": "Piyasak Prasittinawa",
+  "title": "Computer Science Professor",
+  "phone": "+66 929470655",
+  "email": " Piyasak.pr@ku.th"
 
+},
+  {
+  "name": "Pongphat Suksrimoln",
+  "title": "Digital sci technology",
+  "phone": "+66 98 095 1160",
+  "email": "pongphat.s@ku.th"
+}
+]
